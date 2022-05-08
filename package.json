@@ -1,0 +1,18 @@
+{
+  "name": "node-project",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "my first project",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "node src/index.js",
+    "hello": "echo \"Hello World\" && exit 0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jdbktm890/node-project.git"
+  },
+  "dependencies": {
+    "chalk": "^4.1.2"
+  }
+}
